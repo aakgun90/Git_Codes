@@ -8,3 +8,5 @@ alpha = 0.0001
 arr = arr.T * alpha
 
 print(arr)
+
+print("good work bro")
